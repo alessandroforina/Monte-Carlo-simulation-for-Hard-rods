@@ -1,0 +1,7 @@
+*.txt
+!assets.txt
+*/*
+makefile
+molgl
+simulation*
+.DS_Store
